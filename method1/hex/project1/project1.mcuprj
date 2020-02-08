@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ASCII"?>
+<MCUProject Schema="67" Class="CMCUProject" Path="" PathAbs="" ProjectType="1">
+<ProjectFolders/>
+<ProjectFiles/>
+<BuildSettings>
+<MCUProjectBuildSettings Class="CMCUProjectBuildSettings" ToolGroupType="-1" IntermediatePath="&amp;ASC.\" IntermediatePathAbs="&amp;ASCC:\Users\WIAM\Documents\National Instruments\Circuit Design Suite 14.1\MCU Workspaces\hex\project1\" OutputPath="&amp;ASC.\" OutputPathAbs="&amp;ASCC:\Users\WIAM\Documents\National Instruments\Circuit Design Suite 14.1\MCU Workspaces\hex\project1\" TargetFileType="6" SimPath="&amp;ASC..\..\..\..\..\..\Desktop\projet\CODE MCU\Objects\" SimPathAbs="&amp;ASCC:\Users\WIAM\Desktop\projet\CODE MCU\Objects\" SimFile="&amp;ASCfichierc.hex" CodeLoadType="0"/>
+</BuildSettings>
+</MCUProject>
